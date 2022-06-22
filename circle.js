@@ -1,4 +1,5 @@
 import {Shape} from './shape.js';
-export class Circle extends Shape{
+class Circle extends Shape{
       calculateArea(){}
 }
+export './circle.js'
