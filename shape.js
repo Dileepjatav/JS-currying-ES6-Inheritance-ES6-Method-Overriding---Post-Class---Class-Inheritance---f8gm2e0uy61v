@@ -1,5 +1,6 @@
-       export class Shape{
+       class Shape{
               color = "black";
                drawShape() {}
                calculateArea(){}
        }
+export './shape.js'
