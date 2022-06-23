@@ -1,12 +1,8 @@
 // import using require
-require('./shape')
+require('./shape');
 // declare class
-       class Shape{
-         constructor(){
-              this.color = "black";
-         }
-               drawShape() {}
+       class Circle{
                calculateArea(){}
        }
-module.exports = 'Shape';
+module.exports = 'Circle';
 // export class using module.exports
