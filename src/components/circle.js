@@ -8,4 +8,4 @@ class Circle extends shapeClass{
     }
 }
 // export class using module.exports
-module.export = shapeClass;
+module.exports = shapeClass;
