@@ -1,4 +1,3 @@
-
 // import using require
 const shapeClass = reuire('./shape');
 // declare class
@@ -8,4 +7,4 @@ class Circle extends shapeClass{
     }
 }
 // export class using module.exports
-module.exports = 'Circle';
+module.exports = Circle;
