@@ -4,5 +4,5 @@
                drawShape() {console.log("drawshape");}
                calculateArea(){console.log("calculateArea");}
        }
-module.exports = 'Shape';
+module.exports = Shape;
 // export class using module.exports
